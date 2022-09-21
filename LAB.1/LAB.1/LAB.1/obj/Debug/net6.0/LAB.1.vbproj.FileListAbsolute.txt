@@ -1,0 +1,5 @@
+C:\Users\Alvarado\Documents\GERMAIN UTO 2022 II (SEMESTRE)\D.S.7\LAB.1\LAB.1\LAB.1\obj\Debug\net6.0\LAB.1.vbproj.AssemblyReference.cache
+C:\Users\Alvarado\Documents\GERMAIN UTO 2022 II (SEMESTRE)\D.S.7\LAB.1\LAB.1\LAB.1\obj\Debug\net6.0\LAB.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alvarado\Documents\GERMAIN UTO 2022 II (SEMESTRE)\D.S.7\LAB.1\LAB.1\LAB.1\obj\Debug\net6.0\LAB.1.AssemblyInfoInputs.cache
+C:\Users\Alvarado\Documents\GERMAIN UTO 2022 II (SEMESTRE)\D.S.7\LAB.1\LAB.1\LAB.1\obj\Debug\net6.0\LAB.1.AssemblyInfo.vb
+C:\Users\Alvarado\Documents\GERMAIN UTO 2022 II (SEMESTRE)\D.S.7\LAB.1\LAB.1\LAB.1\obj\Debug\net6.0\LAB.1.vbproj.CoreCompileInputs.cache

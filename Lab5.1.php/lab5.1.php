@@ -19,5 +19,4 @@ if (is_uploaded_file ($_FILES['nombre_archivo_cliente']['tmp_name']))
     $nombreDirectorio<br>";
 }
 else
-     echo "no se ha podido subir el archivo <br>";
-     ?>
+     echo "no se ha podido subir el archivo <br>"
